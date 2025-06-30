@@ -2,6 +2,8 @@
 
 CashTrack is a student-focused expense tracking app built with Flutter. It helps users automatically detect UPI/net banking transactions from SMS, categorize them instantly, and manage spending with a beautiful and intuitive UI.
 
+![WhatsApp Image 2025-06-29 at 02 13 45](https://github.com/user-attachments/assets/ba206027-24d9-4dde-b45f-4c311af45ab0)
+
 ---
 
 ## 🚀 Features
@@ -38,8 +40,8 @@ Managing money as a student is hard. CashTrack makes it simple, fun, and educati
 ## 👨‍💻 Team CashTrack
 
 - [Yashraj Sakunde](https://github.com/Yashraj88888)
-- Aditanshu Kumar
-- Drishti Jain
+- [Rishit Kumar](https://github.com/Rishit-Kumar)
+- [Aditanshu Sahu](https://github.com/aditans)
 
 ---
 
