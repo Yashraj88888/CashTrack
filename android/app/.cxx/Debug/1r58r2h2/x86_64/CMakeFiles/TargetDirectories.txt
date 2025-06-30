@@ -1,0 +1,2 @@
+/Users/yashrajsakunde/StudioProjects/CashTrack/android/app/.cxx/Debug/1r58r2h2/x86_64/CMakeFiles/edit_cache.dir
+/Users/yashrajsakunde/StudioProjects/CashTrack/android/app/.cxx/Debug/1r58r2h2/x86_64/CMakeFiles/rebuild_cache.dir
